@@ -8,8 +8,8 @@ i = 1
 
 while i <= n:
     s = s + i
-    i + i = 1
+    i =i + 1
 
  #ouput
 
- print("La suma de los {n} primero numeros es: {s}")
+print(f"La suma de los {n} primero numeros es: {s}")
