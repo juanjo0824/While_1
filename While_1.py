@@ -12,4 +12,4 @@ while i <= n:
 
  #ouput
 
- print("La suma de los {n}")
+ print("La suma de los {n} primero numeros es: {s}")
